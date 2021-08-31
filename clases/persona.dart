@@ -4,6 +4,10 @@ class Persona {
   int? edad;
   String? _bio = '';
 
+  Persona() {
+    print('Constructor');
+  }
+
   //Getters y Setters
   String? get bio {
     return _bio;

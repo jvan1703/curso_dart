@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'clases/persona.dart';
 
 main(List<String> args) {
